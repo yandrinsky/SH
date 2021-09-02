@@ -7,7 +7,7 @@ SH решает следующие проблемы:
 2)	Случайные перезаписи 
 3)	Отсутствие live update при получении nodeList querySelectorAll
 4)	Неструктурированные селекты 
-5)	Отсутствие предупреждений при получении undefined 
+5)	Отсутствие предупреждений при получении undefined \n
 Методы:
 	.set(name, selector, option) – задаёт новый селектор в системе SH.
 name, selector, option – type string 
